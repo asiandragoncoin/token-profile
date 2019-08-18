@@ -1,0 +1,28 @@
+{
+  "symbol": "AD",
+  "address": "0XF6DBE88BA55F1793FF0773C9B1275300F830914F",
+  "overview":{
+        "en": "Asian Dragon aims is to create a unified blockchain ecosystem for its token, with the goal of making commerce efficient, transparent, and reliable.",
+        "zh": "亚洲龙的目标是为其代币创建统一的区块链生态系统，目标是使业务高效，透明和可靠。"
+  },
+  "email": "info@asiandragoncoin.com",
+  "website": "https://www.asiandragoncoin.com/",
+  "whitepaper": "https://www.asiandragoncoin.com/ad/Asian_Dragon_AD_WHITEPAPER_and_Terms_and_Conditions_2019_V1.2-16-4-2019.pdf",
+  "state": "NORMAL",
+  "published_on": "2019-01-02",
+  "initial_price":{
+        "ETH":"0.000018 ETH",
+        "USD":"0.00188 USD",
+        "BTC":"1.8e-7 BTC"
+  },
+  "links": {
+    "blog": "https://asiandragoncoin.wixsite.com/website",
+    "twitter": "https://twitter.com/CoinAsian",
+    "telegram": "https://t.me/adgncoin",
+    "github": "https://github.com/asiandragoncoin",
+    "facebook": "https://www.facebook.com/asiandragontech",
+    "reddit": "https://www.reddit.com/user/asiandragoncoin",
+    "slack": "https://asiandragontechnology.slack.com",
+    "medium": ""
+  }
+}
